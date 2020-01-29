@@ -17,6 +17,7 @@
     "pack",
     "unpack",
     "lfs",
+    "insim",
     "packet",
     "binary"
   ],
