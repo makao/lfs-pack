@@ -1,5 +1,5 @@
 {
-  "name": "@makao/lfs-pack",
+  "name": "@makao.pl/lfs-pack",
   "version": "1.0.0",
   "description": "Library used for packing and unpacking LFS packets",
   "main": "index.js",
